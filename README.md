@@ -19,8 +19,9 @@ Frontend UI Developer · HTML5 · CSS3 · JavaScript · Responsive Design
 
 🔗 CV Maquetadora Web  
 https://kampabru.github.io/cv-maquetadora-web/
+
 🔗 GitHub Repository  
-https://github.com/kampaBru/cv-maquetadora-web
+https://github.com/kampaBru/cv-maquetadora-web/
 
 🔗 Audiophile WordPress  
 https://audiophile.kampastudio.es/
